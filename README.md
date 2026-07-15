@@ -69,6 +69,10 @@ Built as an enhanced fork of the original X-UI project, 3X-UI adds broader proto
 ## Quick Start
 
 ```bash
+bash <(curl -Ls https://raw.githubusercontent.com/McMillman/3x-ui/main/install.sh)
+```
+or
+```bash
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```
 
